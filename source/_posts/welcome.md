@@ -8,6 +8,8 @@ categories:
 date: 2020-10-26 23:50:24
 ---
 
+![Animenz](https://cdn.jsdelivr.net/gh/AnotiaWang/animenz@source/img/avatar.png)
+
 > 世界上总需要另类的人，来打破现有的框架，探索新的空间。
 > 
 > ——Animenz 在《世界听我说》节目中说

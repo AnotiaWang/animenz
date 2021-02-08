@@ -15,6 +15,6 @@ date: 2020-11-01 10:22:35
 
 扒谱：MacQui
 
-![](https://animenz.anotia.top/wp-content/uploads/2020/11/image28229.png)
+![](https://cdn.jsdelivr.net/gh/AnotiaWang/animenz@source/img/secret-base.png)
 
-[下载PDF](https://animenz.anotia.top/wp-content/uploads/2020/11/SecretBase_-Animenz.pdf)
+[下载PDF](https://cdn.jsdelivr.net/gh/AnotiaWang/animenz@source/sheets/SecretBase_-Animenz.pdf)

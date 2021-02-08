@@ -9,8 +9,7 @@ date: 2020-11-08 08:05:29
 
 扒谱：maDwaZz
 
-![](https://animenz.anotia.top/wp-content/uploads/2020/11/imagination-790x1024.jpg)
+![](https://cdn.jsdelivr.net/gh/AnotiaWang/animenz@source/img/imagination.jpg)
 
-[下载PDF](https://animenz.anotia.top/wp-content/uploads/2020/11/Imagination-Animenz.pdf)
+[下载PDF](https://cdn.jsdelivr.net/gh/AnotiaWang/animenz@source/sheets/Imagination-Animenz.pdf)
 
-[下载MIDI](https://animenz.anotia.top/wp-content/uploads/2020/11/Imagination-Animenz.mid)

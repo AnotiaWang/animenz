@@ -13,6 +13,6 @@ date: 2020-11-01 19:59:08
 
 扒谱：Zygarde
 
-![](https://animenz.anotia.top/wp-content/uploads/2020/11/image28129-1.png)
+![](https://cdn.jsdelivr.net/gh/AnotiaWang/animenz@source/img/exist.png)
 
-[下载PDF](https://animenz.anotia.top/wp-content/uploads/2020/11/Animenz-Exist.pdf)
+[下载PDF](https://cdn.jsdelivr.net/gh/AnotiaWang/animenz@source/sheets/exist.pdf)

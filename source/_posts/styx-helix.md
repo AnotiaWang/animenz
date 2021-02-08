@@ -9,6 +9,6 @@ date: 2020-11-08 08:01:16
 
 扒谱：PianoVI
 
-![](https://animenz.anotia.top/wp-content/uploads/2020/11/styx-724x1024.png)
+![](https://cdn.jsdelivr.net/gh/AnotiaWang/animenz@source/img/styx-helix.png)
 
-[下载PDF](https://animenz.anotia.top/wp-content/uploads/2020/11/Animenz-STYX-HELIX.pdf)
+[下载PDF](https://cdn.jsdelivr.net/gh/AnotiaWang/animenz@source/sheets/styx-helix.pdf)

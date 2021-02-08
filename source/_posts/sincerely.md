@@ -14,10 +14,6 @@ date: 2020-10-30 00:26:51
 
 扒谱：maDwaZz
 
-![](https://animenz.anotia.top/wp-content/uploads/2020/10/image-791x1024.jpeg)
+![](https://cdn.jsdelivr.net/gh/AnotiaWang/animenz@source/img/sincerely.jpeg)
 
-预览
-
-[下载PDF](https://animenz.anotia.top/wp-content/uploads/2020/10/Sincerely_v2-Animenz.pdf)
-
-[下载MIDI](https://animenz.anotia.top/wp-content/uploads/2020/10/Sincerely_v2-Animenz.mid)
+[下载PDF](https://cdn.jsdelivr.net/gh/AnotiaWang/animenz@source/sheets/Sincerely_v2-Animenz.pdf)

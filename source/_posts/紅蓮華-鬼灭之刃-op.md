@@ -9,6 +9,6 @@ date: 2020-11-08 08:08:41
 
 扒谱：PianoVI
 
-![](https://animenz.anotia.top/wp-content/uploads/2020/11/红莲花-726x1024.png)
+![](https://cdn.jsdelivr.net/gh/AnotiaWang/animenz@source/img/gurenge.png)
 
-[下载PDF](https://animenz.anotia.top/wp-content/uploads/2020/11/Animenz-Gurenge.pdf)
+[下载PDF](https://cdn.jsdelivr.net/gh/AnotiaWang/animenz@source/sheets/gurenge.pdf)

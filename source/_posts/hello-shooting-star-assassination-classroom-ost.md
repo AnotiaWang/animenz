@@ -13,6 +13,6 @@ date: 2020-11-01 19:53:51
 
 扒谱：Zygrade
 
-![](https://animenz.anotia.top/wp-content/uploads/2020/11/image2822928129.png)
+![](https://cdn.jsdelivr.net/gh/AnotiaWang/animenz@source/img/hello-shooting-star.png)
 
-[下载PDF](https://animenz.anotia.top/wp-content/uploads/2020/11/Hello2Cshotting-star.pdf)
+[下载PDF](https://cdn.jsdelivr.net/gh/AnotiaWang/animenz@source/sheets/hello-shooting-star.pdf)

@@ -9,6 +9,6 @@ date: 2020-11-08 08:03:09
 
 扒谱：PianoVI
 
-![](https://animenz.anotia.top/wp-content/uploads/2020/11/daisy-725x1024.png)
+![](https://cdn.jsdelivr.net/gh/AnotiaWang/animenz@source/img/daisy.png)
 
-[下载PDf](https://animenz.anotia.top/wp-content/uploads/2020/11/Animenz-Daisy-Kyoukai-no-Kanata-ED.pdf)
+[下载PDF](https://cdn.jsdelivr.net/gh/AnotiaWang/animenz@source/sheets/daisy.pdf)

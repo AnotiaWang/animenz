@@ -13,6 +13,6 @@ date: 2020-10-31 19:54:32
 
 扒谱：PianoVI
 
-![](https://animenz.anotia.top/wp-content/uploads/2020/10/image-3-723x1024.png)
+![](https://cdn.jsdelivr.net/gh/AnotiaWang/animenz@source/img/butter-fly.png)
 
-[下载PDF](https://animenz.anotia.top/wp-content/uploads/2020/10/Animenz-Butter-Fly.pdf)
+[下载PDF](https://cdn.jsdelivr.net/gh/AnotiaWang/animenz@source/sheets/butter-fly.pdf)

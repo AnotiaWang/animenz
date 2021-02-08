@@ -13,6 +13,6 @@ date: 2020-11-08 07:55:48
 
 扒谱：PianoVI
 
-![](https://animenz.anotia.top/wp-content/uploads/2020/11/sirius-723x1024.png)
+![](https://cdn.jsdelivr.net/gh/AnotiaWang/animenz@source/img/sirius.png)
 
-[下载PDF](https://animenz.anotia.top/wp-content/uploads/2020/11/Animenz-Sirius-Kill-la-Kill.pdf)
+[下载PDF](https://cdn.jsdelivr.net/gh/AnotiaWang/animenz@source/sheets/sirius.pdf)

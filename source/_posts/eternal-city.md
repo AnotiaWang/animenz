@@ -13,8 +13,6 @@ date: 2020-12-14 12:05:18
 
 扒谱：Zygrade
 
-![](https://animenz.anotia.top/wp-content/uploads/2020/12/image-725x1024.png)
+![](https://cdn.jsdelivr.net/gh/AnotiaWang/animenz@source/img/eternal-city.png)
 
-[MIDI](https://animenz.anotia.top/wp-content/uploads/2020/12/Eternal-City-Piano-Suite.mid)
-
-[PDF](https://animenz.anotia.top/wp-content/uploads/2020/12/wp-1607899861829-1.pdf)
+[PDF](https://cdn.jsdelivr.net/gh/AnotiaWang/animenz@source/sheets/eternal-city.pdf)

@@ -39,7 +39,7 @@ appearance:
 
 profile:
   email: mail@to.anotia.top
-  # avatar:
+  avatar: 'https://cdn.jsdelivr.net/gh/AnotiaWang/animenz@source/img/avatar.png'
   bio: Dedicated for Animenz fans
 
 menu:
@@ -82,19 +82,19 @@ page:
   copyright: false
 
 post:
-  per_page: 6
+  per_page: 10
   toc: true
   reward: false
-  copyright: true
+  copyright: false
 
 archive:
-  per_page: 6
+  per_page: 15
 
 tag:
-  per_page: 6
+  per_page: 10
 
 category:
-  per_page: 6
+  per_page: 10
 
 search:
   fab: true
@@ -205,6 +205,7 @@ pwa:
 
 # Plugins
 plugins:
+  - //cdn.jsdelivr.net/gh/AnotiaWang/animenz@source/baidu.js
   - //cdn.jsdelivr.net/gh/idkzr/static@master/inside/bsz.js
   - //cdn.jsdelivr.net/gh/idkzr/static@master/inside/themes.js
   - //cdn.jsdelivr.net/gh/idkzr/static@master/inside/theme.js

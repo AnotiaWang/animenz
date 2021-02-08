@@ -8,6 +8,6 @@ tags: 游戏人生
 
 A 叔相对之前的版本做了一些简化，并微调了一些细节。
 
-![](https://p.pstatp.com/origin/137e100039f0723f38126)
+![](https://cdn.jsdelivr.net/gh/AnotiaWang/animenz@source/img/this-game.png)
 
-[下载 PDF](https://files.catbox.moe/qjxw4g.pdf)
+[下载 PDF](https://cdn.jsdelivr.net/gh/AnotiaWang/animenz@source/sheets/this-game-2021.pdf)

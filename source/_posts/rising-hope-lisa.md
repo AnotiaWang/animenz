@@ -13,6 +13,6 @@ date: 2020-11-08 07:58:45
 
 扒谱：PianoVI
 
-![](https://animenz.anotia.top/wp-content/uploads/2020/11/risinghope-722x1024.png)
+![](https://cdn.jsdelivr.net/gh/AnotiaWang/animenz@source/img/rising-hope.png)
 
-[下载PDF](https://animenz.anotia.top/wp-content/uploads/2020/11/Animenz-Rising-Hope.pdf)
+[下载PDF](https://cdn.jsdelivr.net/gh/AnotiaWang/animenz@source/sheets/rising-hope.pdf)

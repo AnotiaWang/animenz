@@ -13,10 +13,9 @@ date: 2020-11-08 07:47:33
 
 扒谱：Zygrade
 
-![](https://animenz.anotia.top/wp-content/uploads/2020/11/badapple-724x1024.png)
+![](https://cdn.jsdelivr.net/gh/AnotiaWang/animenz@source/img/badapple.png)
 
-预览
 
-[下载PDF](https://animenz.anotia.top/wp-content/uploads/2020/11/Bad-Apple.pdf)
 
-[下载MIDI](https://animenz.anotia.top/wp-content/uploads/2020/11/Bad-Apple.mid)
+[下载PDF](https://cdn.jsdelivr.net/gh/AnotiaWang/animenz@source/sheets/bad-apple.pdf)
+

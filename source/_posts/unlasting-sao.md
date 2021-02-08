@@ -13,6 +13,6 @@ date: 2020-11-01 19:58:01
 
 扒谱：maDwaZz
 
-![](https://animenz.anotia.top/wp-content/uploads/2020/11/image-791x1024.jpeg)
+![](https://cdn.jsdelivr.net/gh/AnotiaWang/animenz@source/img/unlasting.jpeg)
 
-[下载PDF](https://animenz.anotia.top/wp-content/uploads/2020/11/Unlasting28Animenz29.pdf)
+[下载PDF](https://cdn.jsdelivr.net/gh/AnotiaWang/animenz@source/sheets/unlasting.pdf)
