@@ -1,0 +1,52 @@
+menu:
+  archives: 归档
+  categories: 分类
+  tags: 标签
+
+title:
+  archives: 归档
+  categories: 分类
+  tags: 标签
+  search: 搜索
+
+footer:
+  powered: 由 %s 强力驱动
+  theme: 主题
+
+reward:
+  paypal: Paypal
+  wechat: 微信
+  alipay: 支
+  bitcoin: Bitcoin
+
+comments:
+  load: 加载 %s
+  load_faild: 加载 %s 失败，点击尝试重新加载
+  livere: Livere
+  disqus: Disqus
+
+post:
+  copyright:
+    author: 本文作者
+    link: 本文链接
+    license: 版权声明
+    published: 发表日期
+    updated: 更新日期
+  reading_time: "%(words)i 字约 %(minutes)i 分钟"
+
+page:
+  tags:
+    zero: 暂无标签
+    one: 目前共计 1 个标签
+    other: 目前共计 %d 个标签
+
+  notfound:
+    direct_failed: 无法跳转到 %s
+    empty: 什么也没有。
+
+  search:
+    placeholder: 搜索
+    hits:
+      zero: 未发现与「:query」相关的内容
+      one: 1 条相关条目，使用了 :time 毫秒
+      other: ":hits 条相关条目，使用了 :time 毫秒"

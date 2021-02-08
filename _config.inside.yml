@@ -1,0 +1,228 @@
+# ---------------------------------------------------------------
+# Basic
+# ---------------------------------------------------------------
+
+appearance:
+  accent_color: '#2a2b33'
+  foreground_color: '#363636'
+  border_color: '#e0e0e0'
+  background: '#f5f7fa'
+  sidebar_background: '#2a2b33'
+  card_background: '#fff'
+
+  content_width: 640
+
+  font:
+    # 字体 CSS 文件的 URL
+    url: //fonts.loli.net/css?family=Baloo+Bhaijaan|Inconsolata|Josefin+Sans|Montserrat
+    # 基础字体，作用于 body 元素
+    base: "'Josefin Sans', 'PingFang SC', Microsoft YaHei"
+    # 作用于 sidebar 上方的 LOGO
+    logo:
+    # 作用于 sidebar 菜单栏
+    menu: 'Baloo Bhaijaan'
+    # 作用于文章百分比、归档页月份、分类文字数、分页、目录索引等地方
+    label: Montserrat
+    # 作用于标题
+    heading:
+    # 作用于代码及代码块
+    code: Inconsolata, monospace
+    # Base font for printing which applied to body
+    print:
+
+  highlight: [
+  '#1d1f21', '#282a2e', '#373b41', '#969896',
+  '#b4b7b4', '#c5c8c6', '#e0e0e0', '#ffffff',
+  '#cc342b', '#f96a38', '#fba922', '#198844',
+  '#3971ed', '#3971ed', '#a36ac7', '#3971ed'
+  ]
+
+profile:
+  email: mail@to.anotia.top
+  # avatar:
+  bio: Dedicated for Animenz fans
+
+menu:
+  🏠　主页: /
+  📝　关于: /about
+  📺　Bilibili: https://space.bilibili.com/6075139
+
+sns:
+  email: mail@to.anotia.top
+  feed:
+  github: https://github.com/AnotiaWang
+  twitter:
+  facebook:
+  instagram:
+  tumblr:
+  dribbble:
+  telegram: https://t.me/atashare
+  youtube: https://www.youtube.com/channel/UCyW-leqPXUunrXXxFjpZ7VA
+  hangouts:
+  linkedin:
+  pinterest:
+  soundcloud:
+  myspace:
+  weibo:
+  qq:
+
+footer:
+  copyright: '&copy; 2020-2021 ❤️ <a href="/">Animenz 曲谱网</a>'
+  powered: false
+  theme: false
+  custom: '<div><span title="总访客量"> UV : <span id="busuanzi_value_site_uv"></span></span> | <span title="总访问量"> PV : <span id="busuanzi_value_site_pv"></span></span></div>'
+
+# ---------------------------------------------------------------
+# Content
+# ---------------------------------------------------------------
+
+page:
+  toc: false
+  reward: false
+  copyright: false
+
+post:
+  per_page: 6
+  toc: true
+  reward: false
+  copyright: true
+
+archive:
+  per_page: 6
+
+tag:
+  per_page: 6
+
+category:
+  per_page: 6
+
+search:
+  fab: true
+  page: true
+
+  adapter:
+    range:
+      - post
+      - page
+
+    limit: 10000
+    per_page: 5
+
+
+# ---------------------------------------------------------------
+# Content addons
+# ---------------------------------------------------------------
+
+assets:
+  # prefix: '//cdn.jsdelivr.net/gh/idkzr/static@master'
+  # suffix: '?m=webp&q=80'
+
+toc:
+  depth: 3
+  index: false
+
+
+
+
+comments:
+
+
+# ---------------------------------------------------------------
+# Misc
+# ---------------------------------------------------------------
+
+#static_prefix: //cdn.jsdelivr.net/gh/idkzr/Blog@master
+
+#data_prefix: //cdn.jsdelivr.net/gh/idkzr/Blog@master/api
+data_dir: api
+
+favicon: favicon.ico
+
+#ga: UA-158646366-1
+
+seo:
+  structured_data: true
+  ssr: false
+
+# PWA
+pwa:
+  workbox:
+    cdn: https://g.alicdn.com/kg/workbox/3.3.0/workbox-sw.js
+    module_path_prefix: https://g.alicdn.com/kg/workbox/3.3.0/
+    expire: 4
+    name: sw.js
+    rules:
+      - name: jsdelivr
+        strategy: staleWhileRevalidate
+        regex: https://cdn\\.jsdelivr\\.net
+      - name: gtm
+        strategy: staleWhileRevalidate
+        regex: https://www\\.googletagmanager\\.com\?id=.*
+      - name: gravatar
+        strategy: staleWhileRevalidate
+        regex: https://www\\.gravatar\\.com
+      - name: theme
+        strategy: staleWhileRevalidate
+        regex: /.*\\.(?:js|css|woff2|png|jpg|gif)$
+      - name: json
+        strategy: cacheFirst
+        regex: /.*\\.json
+
+  manifest:
+    short_name: Animenz 曲谱
+    name: Animenz 曲谱
+    start_url: /
+    theme_color: '#2a2b33'
+    background_color: '#2a2b33'
+    icons:
+      - src: /icons/512.png
+        sizes: 512x512
+        type: image/png
+      - src: /icons/256.png
+        sizes: 256x256
+        type: image/png
+      - src: /icons/192.png
+        sizes: 192x192
+        type: image/png
+      - src: /icons/128.png
+        sizes: 128x128
+        type: image/png
+      - src: /icons/96.png
+        sizes: 96x96
+        type: image/png
+      - src: /icons/64.png
+        sizes: 64x64
+        type: image/png
+      - src: /icons/48.png
+        sizes: 48x48
+        type: image/png
+      - src: /icons/32.png
+        sizes: 32x32
+        type: image/png
+      - src: /icons/16.png
+        sizes: 16x16
+        type: image/png
+
+# Plugins
+plugins:
+  - //cdn.jsdelivr.net/gh/idkzr/static@master/inside/bsz.js
+  - //cdn.jsdelivr.net/gh/idkzr/static@master/inside/themes.js
+  - //cdn.jsdelivr.net/gh/idkzr/static@master/inside/theme.js
+  - position: sidebar
+    template: |
+      <is-palette2></is-palette2>
+  - //cdn1.lncld.net/static/js/3.0.4/av-min.js
+  - //unpkg.com/valine/dist/Valine.min.js
+  - position: comments
+    template: |
+      <div id="vcomment"></div>
+      <script>
+        new Valine({
+          el: '#vcomment',
+          appId: 'LHw9i58rBVMqNJq52cnfMI',
+          appKey: '5p28b9Ix3q7EycvF',
+          placeholder: '说点什么？',
+          avatar: 'robohash',
+          path: location.pathname
+        })
+      </script>

@@ -1,0 +1,450 @@
+# ---------------------------------------------------------------
+# Basic
+# ---------------------------------------------------------------
+
+# Appearance
+appearance:
+  # Accent color, default '#2a2b33'
+  accent_color:
+  # Font color, default '#363636'
+  foreground_color:
+  # Border color, default '#e0e0e0'
+  border_color:
+  # body background, default '#f5f7fa'
+  background:
+  # Sidebar background (when opened), default to accent_color
+  sidebar_background:
+  # Card background, default '#fff'
+  card_background:
+
+  # All background settings above support image, e.g.,
+  # '//www.toptal.com/designers/subtlepatterns/patterns/confectionary.png #f5f7fa' or
+  # 'url(//www.toptal.com/designers/subtlepatterns/patterns/confectionary.png) #f5f7fa'
+
+  # Maximum width of content
+  # content_width: 640
+
+  # Fonts
+  font:
+    # Url of font css file
+    # Below is a font set containing Baloo Bhaijaan, Josefin Sans, Montserrat and Inconsolata from Google Fonts.
+    url: //fonts.googleapis.com/css?family=Baloo+Bhaijaan|Inconsolata|Josefin+Sans|Montserrat
+
+    # Base font which applied to body
+    base: "'Josefin Sans', 'PingFang SC'"
+    # Sidebar author font, fallback to `base`
+    logo:
+    # Sidebar menu font, fallback to `base`
+    menu: 'Baloo Bhaijaan'
+    # Font for:
+    # - percentage on the fab button
+    # - month text on archives page
+    # - count
+    # - pager
+    # - toc index
+    # - category pill
+    # fallback to `base`
+    label: Montserrat
+    # Headline(h1, h2, h3, h4, h5, h6) font, fallback to `base`
+    heading:
+    # Code and code block
+    code: Inconsolata, monospace
+    # Base font for printing which applied to body
+    print:
+
+  # Code Syntax Highlighting
+  # Uses an architecture called "base16" (https://github.com/chriskempson/base16),
+  # the default theme is a customized Atelier Dune Light theme,
+  # please feel free to explore more.
+  highlight:
+
+  # Default Light by Chris Kempson (http://chriskempson.com)
+  # highlight: [
+  #   '#f8f8f8', '#e8e8e8', '#d8d8d8', '#b8b8b8',
+  #   '#585858', '#383838', '#282828', '#181818',
+  #   '#ab4642', '#dc9656', '#f7ca88', '#a1b56c',
+  #   '#86c1b9', '#7cafc2', '#ba8baf', '#a16946'
+  # ]
+
+  # Harmonic16 Light by Jannik Siebert (https://github.com/janniks)
+  # highlight: [
+  #   '#f7f9fb', '#e5ebf1', '#cbd6e2', '#aabcce',
+  #   '#627e99', '#405c79', '#223b54', '#0b1c2c',
+  #   '#bf8b56', '#bfbf56', '#8bbf56', '#56bf8b',
+  #   '#568bbf', '#8b56bf', '#bf568b', '#bf5656'
+  # ]
+
+  # Tomorrow Night by Chris Kempson (http://chriskempson.com)
+  # highlight: [
+  #   '#1d1f21', '#282a2e', '#373b41', '#969896',
+  #   '#b4b7b4', '#c5c8c6', '#e0e0e0', '#ffffff',
+  #   '#cc6666', '#de935f', '#f0c674', '#b5bd68',
+  #   '#8abeb7', '#81a2be', '#b294bb', '#a3685a'
+  # ]
+
+# Sidebar profile
+profile:
+  # `email` is used for gravatar(https://en.gravatar.com),
+  # fallback to `hexo.config.email` if not specified
+  email:
+
+  # You can set Avatar URL directly
+  # avatar:
+
+  bio: Awesome guy.
+
+# Sidebar navigation links
+menu:
+  Home: /
+  # About: /about
+  # Links: /links
+  # Github: https://github.com/username
+
+# Social media URL
+# Try to sort by changing the order of the keys
+sns:
+  # `email` will fallback to `profile.email` if not specified
+  email:
+  # If you use hexo-generator-feed, `sns.feed` can be left blank
+  # and the theme will try to get `hexo.config.feed.path`.
+  feed:
+  github:
+  twitter:
+  facebook:
+  instagram:
+  tumblr:
+  dribbble:
+  telegram:
+  youtube:
+  hangouts:
+  linkedin:
+  pinterest:
+  soundcloud:
+  myspace:
+  weibo:
+  qq:
+
+# Sidebar footer copyright info
+footer:
+  # Set to false to hide.
+  # copyright: '&copy; 2019 • <a href="">John Doe</a>'
+
+  # Set to false to hide Hexo link.
+  # powered: false
+
+  # Set to false to hide theme link.
+  # theme: false
+
+  # Custom text.
+  # custom: Hosted by <a target="_blank" rel="external nofollow"
+  #   href="https://pages.github.com/"><b>Github Pages</b></a>
+
+
+# ---------------------------------------------------------------
+# Content
+# ---------------------------------------------------------------
+
+# Page
+page:
+  # Display Table of content, default to `true`
+  # toc: false
+
+  # Display reward, default to `false`
+  # reward: true
+
+  # Display copyright notice, default to `false`
+  # copyright: true
+
+
+# Post
+post:
+  # per_page: 10
+  # reading_time: false
+  # reading_time:
+  #   wpm: 150
+  #   text: ":words words in :minutes min"
+
+  # The following settings are the same as the page
+  # toc: false
+  # reward: true
+  # copyright: true
+
+# Archive
+archive:
+  # per_page: 10
+
+# Tag
+tag:
+  # per_page: 10
+
+# Category
+category:
+  # per_page: 10
+
+# Search
+search:
+  # Display a quick search button in fab
+  # fab: true
+
+  # Render a standalone searh page which can be configured in sidebar menu such as `Search: /search`
+  # page: true
+
+  # Local search
+  # adapter:
+  #   range:
+  #     - post
+  #     - page
+  #   per_page: 20
+  #   limit: 10000
+
+  # Custom search
+  # adapter:
+  #   # Used for pagination
+  #   per_page: 10
+  #   # Optional
+  #   logo: //cdn.worldvectorlogo.com/logos/algolia.svg
+  #   request:
+  #     url: https://{APPLICATION_ID}-dsn.algolia.net/1/indexes/{INDEX}/query
+  #     method: post
+  #     # Available variables: :query, :per_page, :current
+  #     body: '{"query":":query","hitsPerPage":":per_page","page":":current"}'
+  #     headers:
+  #       X-Algolia-API-Key: {API_KEY}
+  #       X-Algolia-Application-Id: {APPLICATION_ID}
+  #       Content-Type: application/json; charset=UTF-8
+  #   keys:
+  #     # Used to retrieve result list
+  #     data: hits
+  #     # Used to retrieve current page number
+  #     current: page
+  #     # Used to retrieve total page number
+  #     total: nbPage
+  #     # Used to retrieve total hits number
+  #     hits: nbHits
+  #     # Used to retrieve cost time
+  #     time: processingTimeMS
+  #     # Used to retrieve title from per hit
+  #     title: _snippetResult.title.value
+  #     # Used to retrieve content from per hit
+  #     content: _snippetResult.content.value
+
+
+# ---------------------------------------------------------------
+# Content addons
+# ---------------------------------------------------------------
+
+# Prefix/Suffix of image URL, useful for CDN, for example,
+# `![cat](images/cat.gif)` will convert to
+# <img src="https://cdn.example.com/images/cat.gif?m=webp&q=80" alt="cat">
+assets:
+  # prefix: 'https://cdn.example.com'
+  # suffix: '?m=webp&q=80'
+
+# Table of content, enabled by default, set to `false` to disable.
+toc:
+  # The depth of toc, default to `3`, maximum to `4`.
+  # depth: 3
+
+  # Showing index before title, eg. 1.1 title, default to `true`
+  # index: true
+
+# Reward
+reward:
+  # Text which shows at the top.
+  # text: Buy me a cup of coffee ☕.
+
+  # Payment Methods
+  # qrcode, url and text must be set at least one
+  # wechat, alipay, paypal and bitcoin has a built-in icon,
+  # use `name` to apply
+  # methods:
+  #   - name: paypal
+  #     qrcode: paypal.jpg
+  #     url: https://paypal.me/imelmore
+  #     text: This is a paypal payment link
+  #     color: '#09bb07'
+
+# Copyright notice
+# It is possible to use front matter `copyright` to override this setting.
+copyright:
+  # Display author, default to `true`
+  # author: true
+
+  # Display link, default to `true`
+  # link: false
+
+  # license: Attribution-NonCommercial-NoDerivatives 4.0 International
+  #   (<a href=\"https://creativecommons.org/licenses/by-nc-sa/4.0/\"
+  #   rel=\"external nofollow\" target=\"_blank\">CC BY-NC-ND 4.0</a>)
+
+  # Display published date, default to `false`
+  # published: false
+
+  # Display updated date, default to `false`
+  # updated: false
+
+  # Custom text, override above settings
+  # custom: my copyright
+
+# Comments
+# Built-in support Disqus (https://disqus.com) and LiveRe (https://livere.com),
+# for other comment system, see plugins
+comments:
+  # disqus:
+  #   shortname: disqus_shortname
+  #   # Or you can set disqus script URL directly
+  #   script: //disqus_shortname.disqus.com/embed.js
+  #   # Autoload, default to `true`, set to `false` to display a button
+  #   autoload: false
+
+  # livere:
+  #   uid: livere_uid
+  #   # LiveRe script, default to `https://cdn-city.livere.com/js/embed.dist.js`
+  #   script:
+  #   # Autoload, default to `true`, set to `false` to display a button
+  #   autoload: false
+
+
+# ---------------------------------------------------------------
+# Misc
+# ---------------------------------------------------------------
+
+# URL prefix for theme statics
+static_prefix:
+
+# URL prefix for json data
+# If your json file is put in a cdn server,
+# set data_prefix as '//cdn.com/path/to/path/your_json_dir' and data_dir as 'your_json_dir'
+data_prefix:
+
+# Folder where json file will be generated to, default to 'api'
+data_dir:
+
+# Favicon, default to `favicon.ico`
+favicon:
+
+# Google analytics
+# ga: UA-00000000-0
+
+# SEO
+seo:
+  # Render structured-data in <head>, default to `false`
+  # structured_data: true
+  # Server-side rendering (SSR), default to `false`
+  # ssr: true
+
+# PWA
+pwa:
+  # Workbox (https://developers.google.com/web/tools/workbox/) is a JavaScript
+  # libraries for adding offline support to web apps,
+  # disabled by default, remove the hash to enable
+  # workbox:
+  #   # Workbox cdn, uses google by default, below is an example of using alicdn
+  #   cdn: https://g.alicdn.com/kg/workbox/3.3.0/workbox-sw.js
+  #   module_path_prefix: https://g.alicdn.com/kg/workbox/3.3.0/
+  #   # Expire time in hour, 4 by default, set to 0 to be permanent,
+  #   # caches will be forcibly deleted the next time the site is updated.
+  #   expire: 4
+  #   # The worker script name, `sw.js` by default
+  #   name: sw.js
+  #   # Custom rules
+  #   rules:
+  #     - name: jsdelivr
+  #       strategy: staleWhileRevalidate
+  #       regex: https://cdn\\.jsdelivr\\.net
+  #     - name: gtm
+  #       strategy: staleWhileRevalidate
+  #       regex: https://www\\.googletagmanager\\.com\?id=.*
+  #     - name: gravatar
+  #       strategy: staleWhileRevalidate
+  #       regex: https://www\\.gravatar\\.com
+  #     - name: theme
+  #       strategy: staleWhileRevalidate
+  #       regex: /.*\\.(?:js|css|woff2|png|jpg|gif)$
+  #     - name: cdn
+  #       strategy: staleWhileRevalidate
+  #       regex: https://cdn\\.yourdomain\\.com
+  #     - name: json
+  #       strategy: cacheFirst
+  #       regex: your_data_prefix/.*\\.json
+
+  # manifest.json
+  # manifest:
+  #   short_name:
+  #   name:
+  #   start_url: /
+  #   theme_color: '#2a2b33'
+  #   background_color: '#2a2b33'
+  #   icons:
+  #     - src: icon-194x194.png
+  #       sizes: 194x194 512x512
+  #       type: image/png
+  #     - src: icon-144x144.png
+  #       sizes: 144x144
+  #       type: image/png
+
+# Plugins
+# Inject html snippet to a specified position, Or global inject scripts/styles.
+# The code will take advantage of babel, uglifyjs and html-minifier if possible.
+# Simply run the following command in the root directory of Hexo (not `themes/inside`):
+# ```bash
+# npm install babel-core babel-preset-env html-minifier uglify-js --save
+# ```
+# plugins:
+#   # Dynamic inject html snippet
+#   - position: # `sidebar` | `post` | `page` | `comments` | `avatar`, can be an array
+
+#     # HTML code
+#     template: |
+#       <script>...</script>
+#     # Or a path relative to theme folder
+#     template: snippets/snippet-1.html
+
+#   # Global Inject scripts/styles
+#   # scripts will be injected into <body>, and styles will be injected into <head>
+#   # In general, script or style depends on their ext name.
+#   - //xxx.css
+#   - //xxx.js
+
+#   # A few more flexible examples
+
+#   # <script src="//sample.com/api.php?format=jsonp" id="sample-api" defer></script>
+#   - tag: script # html tag, `script` | `style` | `link`
+#     # Any possible attributes
+#     src: //sample.com/api.php?format=jsonp
+#     id: sample-api
+#     defer: true
+
+#   # <link rel="stylesheet" href="xxx.css" disable>
+#   - tag: link
+#     href: xxx.css
+#     disable: true
+
+#   # Inline script
+#   # <script type="text/x-mathjax-config">MathJax.Hub.Config({...})</script>
+#   - tag: script
+#     type: text/x-mathjax-config
+#     code: |
+#         MathJax.Hub.Config({
+#           showProcessingMessages: false,
+#           messageStyle: 'none',
+#           tex2jax: { inlineMath: [['s;,'s;], ['\\(','\\)']] }
+#         })
+#     # Or a path relative to theme folder
+#     code: snippets/mathjax-config.js
+
+#   # Inline style
+#   # <style>.mycss{...}</style>
+#   - tag: style
+#     code: |
+#         .mycss {
+#           color: rebeccapurple;
+#         }
+#     # Or a path relative to theme folder
+#     code: snippets/mycss.css
+
+#   # New: Built-in plugins
+#   - cipher
+#   - cipher:
+#       placeholder: Passcode is required
+#       excerpt: Content encrypted

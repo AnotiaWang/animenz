@@ -1,0 +1,52 @@
+menu:
+  archives: アーカイブ
+  categories: カテゴリ
+  tags: タグ
+
+title:
+  archives: アーカイブ
+  categories: カテゴリ
+  tags: タグ
+  search: 検索
+
+footer:
+  powered: Powered by %s
+  theme: テーマ
+
+reward:
+  paypal: Paypal
+  wechat: WeChat
+  alipay: Alipay
+  bitcoin: Bitcoin
+
+comments:
+  load: "%s をロードする"
+  load_faild: "%s の読み込みに失敗し、再試行"
+  livere: Livere
+  disqus: Disqus
+
+post:
+  copyright:
+    author: 著者
+    link: 記事へのリンク
+    license: 著作権表示
+    published: 出版日
+    updated: 更新日
+  reading_time: "%(words)i 分で %(minutes)i 語"
+
+page:
+  tags:
+    zero: タグなし
+    one: 全 1 タグ
+    other: 全 %d タグ
+
+  notfound:
+    direct_failed: "%s への誘導に失敗しました。"
+    empty: ここには何もありません。
+
+  search:
+    placeholder: 検索
+    hits:
+      zero: 「:query」の検索結果はありません
+      one: ":time ミリ秒で検索結果 1 件"
+      other: ":time ミリ秒で検索結果 :hits 件"
