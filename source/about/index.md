@@ -3,8 +3,7 @@ title: 欢迎来到 Animenz 曲谱网！
 tags:
   - 公告
 id: '1'
-categories:
-  - - uncategorized
+categories: 公告
 date: 2020-10-26 23:50:24
 ---
 
